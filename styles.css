@@ -1,0 +1,175 @@
+h1 {
+  font-family: 'Pokemon GB', sans-serif;
+                                                
+}
+
+.TopBar {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+#weatherInput {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#weatherSubmit {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.EntryContainer {
+	display: flex;
+	flex-wrap: wrap;
+	border: 1px solid black;
+	max-width: 35%;
+	min-width: 400px;
+	justify-content: center;
+	background-color: lightgrey;
+	margin-top: 40px;
+	margin-bottom: 15px;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 10px;
+	border-radius: 10px;
+	border-width: 1px;
+	box-shadow: 5px 10px;
+}
+
+.EntryOne {
+	text-align: center;
+}
+
+#pokedex {
+	margin-top: 50px;
+}
+
+#titleSection {
+	justify-content: center;
+}
+
+#weatherBox {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#selectTool {
+	margin: 14px;
+}
+
+#example_text {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: left;
+}
+
+#example_text_p {
+	font-size: 7px;
+	margin: 0;
+
+}
+
+#enterTitleName {
+	font-size:13px;
+}
+
+#img_box {
+	max-width: 400px;
+	
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 15px;
+	padding: 15px;
+
+	border-radius: 10px;
+	border-width: 1px;
+
+}
+
+#moveAbilityDiv {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#poke_box_holder {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: white;
+	border-radius: 10px;
+	border-width: 1px;
+	border:1px solid black;
+}
+#movesResults {
+	max-width: 400px;
+	overflow: scroll;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 15px;
+	padding: 15px;
+	border-radius: 10px;
+	border-width: 1px;
+
+}
+
+#abilitiesResults {
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 15px;
+	padding: 15px;
+	border-radius: 10px;
+	border-width: 1px;
+}
+
+#statsResults {
+	max-width: 400px;
+	
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 15px;
+	padding: 15px;
+	
+	border-radius: 10px;
+	border-width: 1px;
+}
+
+#center {
+	text-align: center;
+}
+
+.leftAlign {
+	text-align: left;
+}
+
+form {
+	display: flex;
+	align-items: center;
+}
+
+h2{
+
+  font-family: 'Pokemon GB', sans-serif;
+                                                
+}
+
+h3 {
+  font-family: 'Pokemon GB', sans-serif;
+                                                
+}
+
+p {
+	font-family: 'Pokemon GB', sans-serif;
+}
+
+body {
+  background: -webkit-gradient(linear, left top, left bottom, from(#c92216), to(#ffff)) fixed;
+}
+
+label {
+	font-family: 'Pokemon GB', sans-serif;
+}
